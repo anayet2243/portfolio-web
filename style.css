@@ -11,6 +11,7 @@ h1{
 .half-with{
     width: 50%;
     padding-left: 5%;
+    margin-bottom: 30px;
 }
 .half-with p{
     color: dimgray;
@@ -33,4 +34,9 @@ h1{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
     
+}
+.dream{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
