@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+section{
+    display: flex;
+}
+h1{
+    font-size: 50px;
+}
+.half-with{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-with p{
+    color: dimgray;
+    text-align: justify;
+}
+.half-with img{
+    width: 90%;
+}
+.clr-orng{
+    color: orangered;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+}
